@@ -11,7 +11,7 @@ In recent years, the advancement of Graph Neural Networks (GNNs) has significant
 
 ## ARCH
 <div align="center">
-  <img src="https://github.com/HackerHyper/MoEGCL/blob/main/ARCH.jpg">
+  <img src="https://github.com/HackerHyper/MoEGCL/blob/main/ARCH.png">
 </div>
 
 ## 2.Requirements
