@@ -3,7 +3,7 @@
 > **Authors:**
 Jian Zhu, Xin Zou, Jun Sun, Cheng Luo, Lei Liu, Lingfang Zeng, Ning Zhang, Bian Wu, Chang Tang, Lirong Dai. 
 
-This repo contains the code and data of our AAAI'2026 oral paper [Mixture of Ego-Graphs Contrastive Representation Learning](https://arxiv.org/abs/2511.05876).
+This repo contains the code and data of [Mixture of Ego-Graphs Contrastive Representation Learning](https://arxiv.org/abs/2511.05876).
 
 ## 1. Abstract
 
